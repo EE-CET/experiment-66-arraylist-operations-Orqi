@@ -2,12 +2,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ArrayListOperations {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int N = scanner.nextInt();
-        scanner.nextLine(); 
+        scanner.nextLine();
 
         ArrayList<String> list = new ArrayList<>();
 
